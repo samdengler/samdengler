@@ -1,5 +1,7 @@
 # Sam Dengler
 
+[About Me](#about-me) | [Technical Blogs](#technical-blogs) | [Podcasts](#podcasts) | [Videos](#videos) | [Training](#training) | [Articles](#articles) | [Slide Decks](#slide-decks) | [Workshops](#workshops) | [Open Source](#open-source) | [GitHub Activity](#github-activity)
+
 ## About Me
 
 * Sr Principal Engineer, JPMorganChase
@@ -64,14 +66,9 @@
 
 ## GitHub Activity
 
-### Stats
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samdengler&theme=github_dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samdengler&show_icons=true&theme=dark)
-
-### Contribution Heatmap
-
-![Contribution Heatmap](https://ghchart.rshah.org/samdengler)
-
-### Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=samdengler&theme=dark)
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samdengler&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samdengler&theme=github_dark" width="49%" />
+</p>
