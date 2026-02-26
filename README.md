@@ -1,11 +1,11 @@
 # Sam Dengler
 
-[About Me](#about-me) | [Technical Blogs](#technical-blogs) | [Podcasts](#podcasts) | [Videos](#videos) | [Training](#training) | [Articles](#articles) | [Slide Decks](#slide-decks) | [Workshops](#workshops) | [Open Source](#open-source) | [GitHub Activity](#github-activity)
+[About Me](#about-me) | [Technical Blogs](#technical-blogs) | [Podcasts](#podcasts) | [Videos](#videos) | [Training](#training) | [Articles](#articles) | [Slide Decks](#slide-decks) | [Workshops](#workshops) | [Open Source](#open-source) | [GUPPI](#guppi) | [GitHub Activity](#github-activity)
 
 ## About Me
 
 * Sr Principal Engineer, JPMorganChase
-* Focused on high-scale, event-driven architectures. Distributed systems. Developer experience. AI.
+* Focused on AI-assisted developer experience. Agentic systems. High-scale, event-driven architectures. Distributed systems.
 
 ## Technical Blogs
 
@@ -63,6 +63,13 @@
 ## Open Source
 
 * Creator of [Doorkeeper::OpenidConnect](https://github.com/doorkeeper-gem/doorkeeper-openid_connect) an OpenID Connect auth provider that extends the Doorkeeper OAuth 2.0 framework
+
+## GUPPI
+
+[GUPPI](https://github.com/samdengler/guppi-cli) (General Use Personal Program Interface) is a plugin framework for composing deterministic tools through a unified CLI. Tools double as AI agent skills, bridging the gap between traditional CLI tooling and agentic workflows.
+
+* [guppi-cli](https://github.com/samdengler/guppi-cli) — Core CLI and plugin router
+* [guppi-tools](https://github.com/samdengler/guppi-tools) — Collection of tools and skills
 
 ## GitHub Activity
 
