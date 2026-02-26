@@ -1,11 +1,15 @@
 # Sam Dengler
 
-[About Me](#about-me) | [Technical Blogs](#technical-blogs) | [Podcasts](#podcasts) | [Videos](#videos) | [Training](#training) | [Articles](#articles) | [Slide Decks](#slide-decks) | [Workshops](#workshops) | [Open Source](#open-source) | [GUPPI](#guppi) | [GitHub Activity](#github-activity)
+[About Me](#about-me) | [Upcoming Talks](#upcoming-talks) | [Technical Blogs](#technical-blogs) | [Podcasts](#podcasts) | [Videos](#videos) | [Training](#training) | [Articles](#articles) | [Slide Decks](#slide-decks) | [Workshops](#workshops) | [Open Source](#open-source) | [GUPPI](#guppi) | [GitHub Activity](#github-activity)
 
 ## About Me
 
 * Sr Principal Engineer, JPMorganChase
 * Focused on AI-assisted developer experience. Agentic systems. High-scale, event-driven architectures. Distributed systems.
+
+## Upcoming Talks
+
+* 2026 DevNexus - [Durable Execution: Building Apps That Refuse to Die](https://devnexus.com/events/durable-execution-building-apps-that-refuse-to-die) | [Slides](https://samdengler.github.io/devnexus-2026-durable-executions/)
 
 ## Technical Blogs
 
