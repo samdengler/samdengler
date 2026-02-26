@@ -5,7 +5,7 @@
 ## About Me
 
 * Sr Principal Engineer, JPMorganChase
-* Focused on high-scale, event-driven architectures. Distributed systems. Developer experience.
+* Focused on high-scale, event-driven architectures. Distributed systems. Developer experience. AI.
 
 ## Technical Blogs
 
