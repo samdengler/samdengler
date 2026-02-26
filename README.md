@@ -61,3 +61,17 @@
 ## Open Source
 
 * Creator of [Doorkeeper::OpenidConnect](https://github.com/doorkeeper-gem/doorkeeper-openid_connect) an OpenID Connect auth provider that extends the Doorkeeper OAuth 2.0 framework
+
+## GitHub Activity
+
+### Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samdengler&show_icons=true&theme=dark)
+
+### Contribution Heatmap
+
+![Contribution Heatmap](https://ghchart.rshah.org/samdengler)
+
+### Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=samdengler&theme=dark)
