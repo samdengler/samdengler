@@ -73,7 +73,7 @@
 [GUPPI](https://github.com/samdengler/guppi-cli) (General Use Personal Program Interface) is a plugin framework for composing deterministic tools through a unified CLI. Tools double as AI agent skills, bridging the gap between traditional CLI tooling and agentic workflows.
 
 * [guppi-cli](https://github.com/samdengler/guppi-cli) — Core CLI and plugin router
-* [guppi-tools](https://github.com/samdengler/guppi-tools) — Collection of tools and skills
+* [guppi-skills](https://github.com/samdengler/guppi-skills) — Collection of tools and skills
 
 ## GitHub Activity
 
