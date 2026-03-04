@@ -1,15 +1,25 @@
 # Sam Dengler
 
-[About Me](#about-me) | [Upcoming Talks](#upcoming-talks) | [Technical Blogs](#technical-blogs) | [Podcasts](#podcasts) | [Videos](#videos) | [Training](#training) | [Articles](#articles) | [Slide Decks](#slide-decks) | [Workshops](#workshops) | [Open Source](#open-source) | [GUPPI](#guppi) | [GitHub Activity](#github-activity)
+[About Me](#about-me) | [Upcoming Talks](#upcoming-talks) | [Previous Talks](#previous-talks) | [Technical Blogs](#technical-blogs) | [Podcasts](#podcasts) | [Training](#training) | [Articles](#articles) | [Slide Decks](#slide-decks) | [Workshops](#workshops) | [Open Source](#open-source) | [GUPPI](#guppi) | [GitHub Activity](#github-activity)
 
 ## About Me
 
 * Sr Principal Engineer, JPMorganChase
-* Focused on AI-assisted developer experience. Agentic systems. High-scale, event-driven architectures. Distributed systems.
+* Focused on agentic development with Claude Code. High-scale, event-driven architectures. Distributed systems. Serverless.
 
 ## Upcoming Talks
 
-* 2026 DevNexus - [Durable Execution: Building Apps That Refuse to Die](https://devnexus.com/events/durable-execution-building-apps-that-refuse-to-die) | [Slides](https://samdengler.github.io/devnexus-2026-durable-executions/)
+* 2026 DevNexus - [Durable Execution: Building Apps That Refuse to Die](https://devnexus.com/events/durable-execution-building-apps-that-refuse-to-die)
+
+## Previous Talks
+
+* 2023 GOTO - [Empowering Architectural Evolution: Governing Event-Driven Solutions](https://www.youtube.com/watch?v=-Pv_kYflEEg&t=20s)
+* 2023 AWS re:Invent - [Improve productivity by shifting more responsibility to developers (SVS309)](https://www.youtube.com/watch?v=qlz15v-gHFI)
+* 2021 AWS re:Invent - [Building next-gen applications with event-driven architectures](https://youtu.be/U5GZNt0iMZY?si=VfUpfvc_ANB2yDbi)
+* 2021 Airflow Summit - [Apache Airflow 2.0 on Amazon MWAA](https://www.youtube.com/watch?v=79IyGdIU7FA)
+* 2020 AWS re:Invent - [Application migration & hybrid cloud with RabbitMQ](https://youtu.be/swhjsFalvLg?si=fs9W_WS9puXE4epV)
+* 2018 Tim Bray and Friends - [Messaging Fanout for Parallel Processing](https://youtu.be/odcAq5vV6II?si=9h5vP47qiUFCOE2F)
+* 2017 AWS re:Invent - [Local Serverless Development using SAM Local (DEM77)](https://youtu.be/oGawhLx3Dxo?si=ykSQYaCxBt6l2aev)
 
 ## Technical Blogs
 
@@ -29,16 +39,6 @@
 * 2021 Serverless Office Hours - [Processing Amazon DynamoDB change data](https://www.youtube.com/watch?v=onuqUHrp1jo)
 * 2020 AWS Fireside Chat - [Serverless Security Strategies: Under the Hood with Becky Weiss and Marc Brooker](https://pages.awscloud.com/Serverless-Security-Strategies-Under-the-Hood_2020_FC_e06-SRV_OD.html)
 * 2020 AWS Serverless-First Function - [Built Serverless-First: How Workgrid Software transformed from a Liberty Mutual project to its own global startup with Workgrid Software Head of Cloud Engineering, Gillian McCann, and AWS Principal Solutions Architect, Sam Dengler](https://www.twitch.tv/videos/639294270?collection=HwBi8IvMFBbKVw&filter=collections&sort=time)
-
-## Videos
-
-* 2023 GOTO - [Empowering Architectural Evolution: Governing Event-Driven Solutions](https://www.youtube.com/watch?v=-Pv_kYflEEg&t=20s)
-* 2023 AWS re:Invent - [Improve productivity by shifting more responsibility to developers (SVS309)](https://www.youtube.com/watch?v=qlz15v-gHFI)
-* 2021 AWS re:Invent - [Building next-gen applications with event-driven architectures](https://youtu.be/U5GZNt0iMZY?si=VfUpfvc_ANB2yDbi)
-* 2021 Airflow Summit - [Apache Airflow 2.0 on Amazon MWAA](https://www.youtube.com/watch?v=79IyGdIU7FA)
-* 2020 AWS re:Invent - [Application migration & hybrid cloud with RabbitMQ](https://youtu.be/swhjsFalvLg?si=fs9W_WS9puXE4epV)
-* 2018 Tim Bray and Friends - [Messaging Fanout for Parallel Processing](https://youtu.be/odcAq5vV6II?si=9h5vP47qiUFCOE2F)
-* 2017 AWS re:Invent - [Local Serverless Development using SAM Local (DEM77)](https://youtu.be/oGawhLx3Dxo?si=ykSQYaCxBt6l2aev)
 
 ## Training
 
