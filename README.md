@@ -5,7 +5,7 @@
 ## About Me
 
 * Sr Principal Engineer, JPMorganChase
-* Focused on agentic development with Claude Code. High-scale, event-driven architectures. Distributed systems. Serverless.
+* Focused on agentic development with Claude Code. High-scale, event-driven architectures. Distributed systems. AWS. Serverless.
 
 ## Upcoming Talks
 
